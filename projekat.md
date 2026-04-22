@@ -26,3 +26,11 @@ AquaMonitor je open-source IoT rješenje dizajnirano za praćenje kvalitete vode
 
 Sistem podržava slanje automatskih obavještenja ukoliko parametri pređu definisane kritične vrijednosti. Arhitektura je modularna, što omogućava lako dodavanje novih tipova senzora i proširenje dashboarda.
 
+
+
+
+
+
+## IZMJENA PREKO WEB INTERFEJSA
+
+
